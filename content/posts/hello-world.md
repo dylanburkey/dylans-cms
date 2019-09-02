@@ -5,7 +5,7 @@ status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://res.cloudinary.com/practicaldev/image/fetch/s--ESjkTlur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/IT0tvqp.png'
 excerpt: >-
-over 500KB that my users would have to download on top of the website, regardless if they'll watch the video. Do you have any idea how heavy this might hit your users, specially the ones with slow connection or low performing machines? To add insult to injury they'd also be being tracked—Hi Google—for just loading a video they didn't even know was there.
+  over 500KB that my users would have to download on top of the website, regardless if they'll watch the video. Do you have   any idea how heavy this might hit your users, specially the ones with slow connection or low performing machines? To add     insult to injury they'd also be being tracked—Hi Google—for just loading a video they didn't even know was there.
 categories:
   - category: News
 meta:
