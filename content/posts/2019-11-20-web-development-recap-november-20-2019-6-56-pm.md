@@ -18,14 +18,26 @@ meta:
 ---
 ## Videos
 
-### 
+* <https://aneventapart.com/news/post/beyond-engagement-the-content-performance-quotient-aea-video>
 
-* https://aneventapart.com/news/post/beyond-engagement-the-content-performance-quotient-aea-video
+https://aneventapart.com/news/post/digital-marketing-strategies-for-the-busy-web-master-by-sarah-parmenter-aea-video-1
+
+Variable Fonts and the Future of Web Typography 
+
+https://vimeo.com/317761891
+
+**Building More Expressive Products - by Val Head:** https://vimeo.com/316820567
+
+**“The Joy of Optimizing Images” by Una Kravets – An Event Apart video:** https://vimeo.com/290141511
+
+**“Performance as User Experience” by Aaron Gustafson—An Event Apart video:** https://vimeo.com/289900932
+
+**“Evaluating Technology” by Jeremy Keith – An Event Apart video:** https://vimeo.com/290098411
 
 ## Articles
 
-* https://web.dev/what-is-speed/
-* https://github.com/Kentico/kentico-cloud-graphql-schema-generator
+* <https://web.dev/what-is-speed/>
+* <https://github.com/Kentico/kentico-cloud-graphql-schema-generator>
 * https://github.com/Kentico
 * https://graphql.org/
 * https://getflywheel.com/layout/best-wordpress-crm-plugins/#4
@@ -34,14 +46,44 @@ meta:
 * https://marketplace.digitalocean.com/apps/lemp
 * https://developers.google.com/web/tools/lighthouse/v3/scoring
 
+**JavaScript Start-up Optimization:** 
+
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
+
+**LightHouse Open Source Download:** 
+
+https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/audits/metrics/speed-index.js
+
+**Charles Proxy - https://www.charlesproxy.com/documentation/using-charles/recording/**
+
+
+
+## Web Fundamentals
+
+**Reduce JavaScript Payloads with Tree Shaking:** \
+https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/
+
+**Optimize Your Third Party Resources:**
+
+https://web.dev/fast/#optimize-your-third-party-resources
+
+- - -
+
 ## Tools
 
-### uncss
+### uncss:
 
-* `<a href="https://github.com/uncss/uncss">Uncsss</a>`
-* ``
+* `https://github.com/uncss/uncss`
+* `<a href="">Uncsss</a>`
 
+**Bundle Size:** https://github.com/siddharthkp/bundlesize
 
-```
-<div class="hello">
-```
+**Size Limit:** https://github.com/ai/size-limit
+
+**Selenium Downloads: https://selenium.dev/downloads/**
+
+- - -
+
+## Web Frameworks
+
+**Styled Components: https://www.styled-components.com/**
